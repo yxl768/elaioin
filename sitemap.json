@@ -1,0 +1,4 @@
+{
+  "desc": "橄榄树小程序站点地图",
+  "rules": [{ "action": "allow", "page": "pages/index/index" }]
+}
